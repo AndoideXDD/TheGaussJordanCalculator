@@ -1,0 +1,2 @@
+# TheGaussJordanCalculator
+Calculates Gauss Jordan
