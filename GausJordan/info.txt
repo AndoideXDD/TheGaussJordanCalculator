@@ -1,0 +1,3 @@
+Aquest projecte en bash consta d'una carpeta per la matriu generada o la que es vol calcular la matriu gaus Jordan. 
+
+El resultat es guradara a la carpeta matriuGaussJordan
